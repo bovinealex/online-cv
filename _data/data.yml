@@ -51,36 +51,20 @@ career-profile:
         positions, and occasionally mention classes. 
 
 education:
-    - degree: #no
-      university: University of California, Berkeley
+    - degree: University of California, Berkeley
+      university: #nothing
       time: 2017 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        College is a time for experementation, so I did a lot of that.
+        A little anthropology there, a hearty serving of 
+        computer science here, you get the picture. My choices of
+        classes were often informed by topics I discovered at work.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Collections Documentation Assistant
+      time: August 2017 - Present
+      company: Hearst Museum of Anthropology
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -96,8 +80,8 @@ experiences:
           - Bullet point
 
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: August 2018 - Present
+      company: Museum of Vertebrate Zoology
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
