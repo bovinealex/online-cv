@@ -44,14 +44,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I spent most of my undergraduate years
-
-      Second paragraph if required.
+        The classic question posed to college students
+        when home for the holidays is: "how is school
+        going?" My responses varied, but remained along
+        the same theme. I would gush about my job, research
+        positions, and occasionally mention classes. 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: #no
+      university: University of California, Berkeley
+      time: 2017 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
