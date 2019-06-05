@@ -38,7 +38,7 @@ sidebar:
       - item: Hiking
         link:
 
-      - item: Cakewalking
+      - item: Basketballer-ing
         link:
 
 career-profile:
@@ -47,8 +47,9 @@ career-profile:
         The classic question posed to college students
         when home for the holidays is: "how is school
         going?" My responses varied, but remained along
-        the same theme. I would gush about my job, research
-        positions, and occasionally mention classes. 
+        the same theme. I would gush about my job, enthusiastically
+        explain research positions, and occasionally mention 
+        my classes. 
 
 education:
     - degree: University of California, Berkeley
@@ -58,7 +59,10 @@ education:
         College is a time for experementation, so I did a lot of that.
         A little anthropology there, a hearty serving of 
         computer science here, you get the picture. My choices of
-        classes were often informed by topics I discovered at work.
+        classes were often informed by topics I discovered at work, 
+        including:
+        - Computer Science 8, 10, 61A
+        - Statistics 8
 
 
 experiences:
@@ -79,7 +83,7 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
+    - role: GIS Research Analyst
       time: August 2018 - Present
       company: Museum of Vertebrate Zoology
       details: |
