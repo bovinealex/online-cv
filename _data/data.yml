@@ -112,22 +112,22 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Various projects I've worked on, both for work and
+      independantly. Click the titles to explore some 
+      (objectively) super interesting stuff.
 
     assignments:
-      - title: Velocity
+      - title: Museum Photogrammetry
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: Hearst Museum Portal
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: California Natural Reserve Biodiversity
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: Taking a statistical approach to biodiversity in the University of California's Natural Reserve System.
 
       - title: Atom
         link: "#"
