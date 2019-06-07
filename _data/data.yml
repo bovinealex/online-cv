@@ -87,14 +87,14 @@ experiences:
       time: August 2018 - Present
       company: Museum of Vertebrate Zoology
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Extracted data from vertebrate range maps using ArcGIS to create a 
+          comprehensive understanding of the University of California Natural Reserve System’s 
+          ability to preserve phylogenetically unique wildlife
+          - Performed PCA to determine the variables that are most likely to cause genetic 
+          diversity in legless lizards, based on maps outlining vegetation, 
+          temperature, precipitation, and soil.
+          - Created complex algorithms in Python to transfer geospatial vector and 
+          raster data from shapefile (large multipolygon datasets) to WKT
 
     - role: UI Developer
       time: 2012 - 2014
