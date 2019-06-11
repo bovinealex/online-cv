@@ -129,14 +129,6 @@ projects:
         link: "#"
         tagline: Taking a statistical approach to biodiversity in the University of California's Natural Reserve System.
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Publications
     intro: |
@@ -160,13 +152,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: R (a Priate's Favorite Programming Language)
-        level: 98%
-
       - name: ArcGIS/ArcMap/ArcGIS Pro
+        level: 98%
+
+      - name: R
+        level: 98%
+
+      - name: Python
         level: 98%
 
       - name: HTML5 & CSS
@@ -175,8 +167,4 @@ skills:
       - name: Ruby on Rails
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
