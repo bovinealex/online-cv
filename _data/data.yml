@@ -150,16 +150,10 @@ skills:
       - name: ArcGIS/ArcMap/ArcGIS Pro
         level: 98%
 
-      - name: R
-        level: 98%
-
       - name: Python
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
+      - name: R
+        level: 90%
 
 
