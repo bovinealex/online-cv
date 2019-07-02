@@ -8,14 +8,14 @@ sidebar:
 
     # Profile information
     name: Alexandra Perkins
-    tagline: Full Frontal Nerdity
+    tagline: :^)
     avatar: Alexandra Perkins.Photo.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: alexandraperkins@berkeley.edu
     phone: 012 345 6789
     website: 
-    linkedin: alexandra-perkins-b74421100
+    linkedin: /alexandra-perkins
     github: bovinealex
     gitlab:
     bitbucket:
