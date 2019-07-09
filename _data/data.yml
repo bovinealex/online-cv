@@ -145,5 +145,8 @@ skills:
 
       - name: R
         level: 90%
+        
+      - name: JavaScript
+        level: 65%
 
 
